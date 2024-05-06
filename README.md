@@ -1,4 +1,4 @@
-This how the game application works
+This is how the game application works
 ***************************************************************************************************************************************************************************************************************************************************************************************************
 step 1: open android studio and run an emulator
 On the home screen of the app you will see the main charactor Snoopy the dog, at the top there is a welcoming message and at the botton you will find the start button
